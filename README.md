@@ -10,4 +10,5 @@ Property wrapper @CodingStyle returns string decorated in three styles:
 
 Usage example:
 
-@CodingSyle(codingStyle: .camelCase) var camelCaseString = "String in camel case" returns "String In Camel Case"
+        @CodingSyle(codingStyle: .camelCase) var camelCaseString = "String in camel case" 
+    returns "String In Camel Case"
